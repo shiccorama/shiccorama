@@ -1,3 +1,4 @@
+
 # Hi there, I'm Sherif Fawzy 👋
 
 ### AI Trainer • LLM Evaluation Specialist • Odoo ERP Consultant • Python Developer • PMP
@@ -160,6 +161,7 @@ Modern web applications built using Python and JavaScript with clean architectur
 ---
 
 ## 📫 Connect With Me
+<img width="667" height="1280" alt="photo_2026-06-30_01-23-16" src="https://github.com/user-attachments/assets/fbb76ec0-f8cb-44b7-9241-593c8897ec58" />
 
 * LinkedIn: https://linkedin.com/in/sherif-fawzy-07111980
 * GitHub: https://github.com/shiccorama
